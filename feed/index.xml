@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Peter&#039;s Immigration Sale</title>
-	<atom:link href="https://DanielMichaelEdwards.github.io/petersimmigrationsale.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://DanielMichaelEdwards.github.io/petersimmigrationsale.io/</link>
+	<atom:link href="https://danielmichaeledwards.github.io/petersimmigrationsale.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://danielmichaeledwards.github.io/petersimmigrationsale.io/</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Nov 2023 09:33:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://DanielMichaelEdwards.github.io/petersimmigrationsale.io/hello-world/</link>
-					<comments>https://DanielMichaelEdwards.github.io/petersimmigrationsale.io/hello-world/#comments</comments>
+		<link>https://danielmichaeledwards.github.io/petersimmigrationsale.io/hello-world/</link>
+					<comments>https://danielmichaeledwards.github.io/petersimmigrationsale.io/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 09:33:53 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://DanielMichaelEdwards.github.io/petersimmigrationsale.io/?p=1</guid>
+		<guid isPermaLink="false">https://danielmichaeledwards.github.io/petersimmigrationsale.io/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://DanielMichaelEdwards.github.io/petersimmigrationsale.io/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://danielmichaeledwards.github.io/petersimmigrationsale.io/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
